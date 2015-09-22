@@ -3,4 +3,4 @@ language: cpp
 compiler: gcc
 script:
   - cd examples
-  - 001-helloworld/build-and-test.sh
+  - cd 001-helloworld && ./build-and-test.sh && cd -
