@@ -3,5 +3,5 @@ educational collection of cmake examples, template projects
 
 ## [001-helloworld](https://github.com/tamaskenez/cmake-best-practices/tree/master/examples/001-helloworld)
 
-Minimal project, builds installs and tests a single executable
+Minimal project, builds, installs and tests a single executable
 
